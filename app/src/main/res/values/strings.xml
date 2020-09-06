@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">SPEED CALCULATOR</string>
+    <string name="meter1">Enter distance (mater)</string>
+    <string name="second2">Enter time (second)</string>
+    <string name="clear1">clear1</string>
+    <string name="cal">cal</string>
+    <string name="add">Distance and time are required</string>
+    <string name="zero">Time must be greater than zero</string>
+    <string name="calspeed">Speed is over limit!</string>
+    <string name="calculater">Calculater</string>
+    <string name="enter_distance_meter">Enter distance (Meter)</string>
+    <string name="enter_time_second">Enter time (second)</string>
+    <string name="clear">CLEAR</string>
 </resources>
